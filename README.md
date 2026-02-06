@@ -42,7 +42,7 @@ Your best ideas don't stay organized. You capture them in different ways:
 → Both appear on the same interactive canvas
 ```
 
-### 2. ** AI Understands Everything**
+### 2. **AI Understands Everything**
 ```
 Handwritten note: "Customer wants faster checkout"
 Text node: "Build payment optimization"
