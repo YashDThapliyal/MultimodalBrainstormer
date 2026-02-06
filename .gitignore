@@ -52,3 +52,4 @@ Thumbs.db
 
 # Claude Code temporary files (if any)
 .claude
+.npm-cache/
